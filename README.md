@@ -1,1 +1,3 @@
-# FYS375-Solcelle
+# FYS375-Solfangemodellering
+
+Modellere av solfanger
